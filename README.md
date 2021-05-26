@@ -1,10 +1,6 @@
 # AwesomeKorean_Speech
-음성인식과 신호처리
 
-
-
-
-음성과 신호처리
+음성과 신호처리(정리중)     
 # 신호처리
 
 - 관련 책 
@@ -36,11 +32,11 @@
 
 	*Dario Amodei et al. [Deep Speech2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) arXiv: 1512.02595*
 
-	*Jung-Woo Ha et al. ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact  (Centers arXiv: 2004.09367*
+	*Jung-Woo Ha et al. [ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact (Centers](https://github.com/clovaai/ClovaCall), arXiv: 2004.09367*   
 
-	https://github.com/clovaai/ClovaCall
+	
 
-	*Soohwan Kim, Seyoung Bae, Cheolhwang Won, [Open-source toolkit for end-to-end Korean speech recognition](https://www.sciencedirect.com/science/article/pii/S2665963821000026)*
+	*Soohwan Kim, Seyoung Bae, Cheolhwang Won, [Open-source toolkit for end-to-end Korean speech recognition](https://www.sciencedirect.com/science/article/pii/S2665963821000026),SIMPAC*
 
 	*Park, Kyubyong and Mulc, Thomas, [CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages](https://github.com/Kyubyong/css10), arXiv:1903.11269*
 
