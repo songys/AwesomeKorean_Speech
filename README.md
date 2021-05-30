@@ -1,6 +1,9 @@
 # AwesomeKorean_Speech
 
 음성과 신호처리(정리중)     
+-  모두의연구소 ASR 랩을 진행하면서 논의된 내용을 바탕으로 정리하였습니다.   
+
+
 # 신호처리
 
 - 관련 책 
@@ -8,7 +11,7 @@
 
 	* [Think DSP](https://github.com/AllenDowney/ThinkDSP)
 
-- [위의 두 책 관련 스터디 자료 링크](https://drive.google.com/drive/folders/10rIXVgjbe6Y4OvVBp4jNSVYsxPwo61P1?usp=sharing)
+- 위의 두 책 관련 스터디 자료 [링크](https://drive.google.com/drive/folders/10rIXVgjbe6Y4OvVBp4jNSVYsxPwo61P1?usp=sharing)
 
 - 관련 강의 
 	* [토크 ON 세미나 디지털 신호 처리 이해](https://www.youtube.com/watch?v=RxbkEjV7c0o&list=PL9mhQYIlKEhem5_wrQqDtNqNcaDyFrYGN)
@@ -16,14 +19,14 @@
 
 
 # 음성 인식 automatic speech recognition (ASR)
--관련 책      
+-관련 책        
 
-	*[ratsgo's speech book](https://ratsgo.github.io/speechbook/docs/neuralam/deepspeech)
+	- [ratsgo's speech book](https://ratsgo.github.io/speechbook/docs/neuralam/deepspeech)
 
 - 관련 강의
 
-	*Connectionist Temporal Classification(CTC) 모델 관련 강의: [토크ON세미나 딥러닝 기반 음성인식 기초 4강](https://www.youtube.com/watch?v=xQ0kkGb5gLk)     
-	*wave2vec 논문 관련 강의 : [wav2vec: Self-Supervised Learning of Discrete Speech Representations[(https://www.youtube.com/watch?v=mPtyfqWHs3s).  
+	- Connectionist Temporal Classification(CTC) 모델 관련 강의: [토크ON세미나 딥러닝 기반 음성인식 기초 4강](https://www.youtube.com/watch?v=xQ0kkGb5gLk)     
+	- wave2vec 논문 관련 강의 : [wav2vec: Self-Supervised Learning of Discrete Speech Representations[(https://www.youtube.com/watch?v=mPtyfqWHs3s).  
 
 
 - 관련 논문      
@@ -50,43 +53,37 @@
 # 데이터    
 ## 영어    
 
-	*LJSpeech
-	*[LibriSpeech](https://www.openslr.org/11/) : https://paperswithcode.com/sota/speech-recognition-on-librispeech-test-clean
-	*Libri-Light: 60k hour unlabelled speech + (10h, 1h or 10min) labelled speech (same as LibriVox???) https://github.com/facebookresearch/libri-light
+	- LJSpeech
+	- [LibriSpeech](https://www.openslr.org/11/) : https://paperswithcode.com/sota/speech-recognition-on-librispeech-test-clean
+	- Libri-Light: 60k hour unlabelled speech + (10h, 1h or 10min) labelled speech (same as LibriVox???) https://github.com/facebookresearch/libri-light
 	
 
 
 ## 한국어    
 
-	*[KsponSpeech ](https://aihub.or.kr/aidata/105/download
-	*모두의말뭉치[일상대화_음성_말뭉치](https://corpus.korean.go.kr/)
-	*[한국어 1인 음성 데이터 ]( https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
+	- [KsponSpeech ](https://aihub.or.kr/aidata/105/download
+	- 모두의말뭉치[일상대화_음성_말뭉치](https://corpus.korean.go.kr/)
+	- [한국어 1인 음성 데이터 ]( https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
 
 - 신청 접수 후 다운로드 가능
 - 철자 전사, 전사 기호(웃음 {laughing}등), 비식별화 기호(이름 &name& 등) 사용
 
 ## 툴킷  
 
-	*[Librosa](https://librosa.org/doc/latest/index.html): python 패키지
-	*Touch Audio : 모델링
-	*[Kaldi](https://kaldi-asr.org/) : C++로 작성
-	*[Praat](https://www.fon.hum.uva.nl/praat/)
+	- [Librosa](https://librosa.org/doc/latest/index.html): python 패키지
+	- Touch Audio : 모델링
+	- [Kaldi](https://kaldi-asr.org/) : C++로 작성
+	- [Praat](https://www.fon.hum.uva.nl/praat/)
 
 
 
 ## 한국어 구현
 KoSpeech : https://github.com/sooftware/KoSpeech
+speech-recognition : https://github.com/cosmoquester/speech-recognition
 
 # 한국어 음성합성  
-참고 링크 : https://pororo-tts.github.io/              
- wav2vec 결과         
-영어는 WER (clean 1.9/ other 4.3)       
-한글은 CER (clean 4.9/ other 5.4)        
+참고 링크 : https://pororo-tts.github.io/        
 
-질문 : CER 계산할때도 grapheme 단위에서 CER 을 구하는 것인지?           
-
-관심사          
-inference : greedy_search       
 
 
 
