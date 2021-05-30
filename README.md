@@ -19,7 +19,7 @@
 
 
 # 음성 인식 automatic speech recognition (ASR)
--관련 책        
+-관련 책       
 
 	- [ratsgo's speech book](https://ratsgo.github.io/speechbook/docs/neuralam/deepspeech)
 
@@ -78,7 +78,8 @@
 
 
 ## 한국어 구현
-KoSpeech : https://github.com/sooftware/KoSpeech
+KoSpeech : https://github.com/sooftware/KoSpeech                    
+
 speech-recognition : https://github.com/cosmoquester/speech-recognition
 
 # 한국어 음성합성  
