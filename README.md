@@ -1,7 +1,7 @@
 # AwesomeKorean_Speech
 
 음성과 신호처리(정리중)     
--  모두의연구소 ASR 랩을 진행하면서 논의된 내용을 바탕으로 정리하였습니다.   
+-  모두의연구소 ASR 랩에 참여하면서 논의된 내용을 바탕으로 정리하였습니다.   
 
 
 # 신호처리
@@ -56,6 +56,7 @@
 	- LJSpeech
 	- [LibriSpeech](https://www.openslr.org/11/) : https://paperswithcode.com/sota/speech-recognition-on-librispeech-test-clean
 	- Libri-Light: 60k hour unlabelled speech + (10h, 1h or 10min) labelled speech (same as LibriVox???) https://github.com/facebookresearch/libri-light
+	- [open source voice and music datasets 정리된 자료](https://github.com/jim-schwoebel/voice_datasets)
 	
 
 
