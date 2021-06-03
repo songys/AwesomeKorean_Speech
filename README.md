@@ -64,6 +64,7 @@
 	- [KsponSpeech ](https://aihub.or.kr/aidata/105/download
 	- 모두의말뭉치[일상대화_음성_말뭉치](https://corpus.korean.go.kr/)
 	- [한국어 1인 음성 데이터 ]( https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
+	- [로봇의 감정 및 개성을 표현할 수 있는 대화형 음성합성 오픈소스](https://github.com/songys/emotiontts_open_db)
 
 - 신청 접수 후 다운로드 가능
 - 철자 전사, 전사 기호(웃음 {laughing}등), 비식별화 기호(이름 &name& 등) 사용
@@ -73,14 +74,18 @@
 	- [Librosa](https://librosa.org/doc/latest/index.html): python 패키지
 	- Touch Audio : 모델링
 	- [Kaldi](https://kaldi-asr.org/) : C++로 작성
-	- [Praat](https://www.fon.hum.uva.nl/praat/)
+	- [Praat](https://www.fon.hum.uva.nl/praat/)  
 
 
 
-## 한국어 구현
+
+## 한국어 구현 
 KoSpeech : https://github.com/sooftware/KoSpeech                    
 
 speech-recognition : https://github.com/cosmoquester/speech-recognition
+
+# DECODE
+[CTC decode](https://github.com/parlance/ctcdecode)
 
 # 한국어 음성합성  
 참고 링크 : https://pororo-tts.github.io/        
