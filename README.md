@@ -83,7 +83,9 @@
 ## 한국어 구현 
 KoSpeech : https://github.com/sooftware/KoSpeech                    
 
-speech-recognition : https://github.com/cosmoquester/speech-recognition
+speech-recognition : https://github.com/cosmoquester/speech-recognition     
+
+Automatic-Speech-Recognition-Models : https://github.com/hasangchun/Automatic-Speech-Recognition-Models    
 
 # DECODE
 [CTC decode](https://github.com/parlance/ctcdecode)
