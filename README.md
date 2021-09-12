@@ -19,7 +19,7 @@
 
 
 # 음성 인식 automatic speech recognition (ASR)
--책       
+- 책       
 
 	- [ratsgo's speech book](https://ratsgo.github.io/speechbook/docs/neuralam/deepspeech)
 
