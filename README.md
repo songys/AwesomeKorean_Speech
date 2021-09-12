@@ -31,19 +31,19 @@
 
 - 논문      
 
-	*Wiliam Chan et al. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211) arXiv: 1508.01211*      
+	* Wiliam Chan et al. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211) arXiv: 1508.01211*      
 
-	*Dario Amodei et al. [Deep Speech2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) arXiv: 1512.02595*
+	* Dario Amodei et al. [Deep Speech2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595) arXiv: 1512.02595*
 
-	*Jung-Woo Ha et al. [ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact (Centers](https://github.com/clovaai/ClovaCall), arXiv: 2004.09367*   
+	* Jung-Woo Ha et al. [ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact (Centers](https://github.com/clovaai/ClovaCall), arXiv: 2004.09367*   
 
-	*Soohwan Kim, Seyoung Bae, Cheolhwang Won, [Open-source toolkit for end-to-end Korean speech recognition](https://www.sciencedirect.com/science/article/pii/S2665963821000026),SIMPAC*
+	* Soohwan Kim, Seyoung Bae, Cheolhwang Won, [Open-source toolkit for end-to-end Korean speech recognition](https://www.sciencedirect.com/science/article/pii/S2665963821000026),SIMPAC*
 
-	*Park, Kyubyong and Mulc, Thomas, [CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages](https://github.com/Kyubyong/css10), arXiv:1903.11269*
+	* Park, Kyubyong and Mulc, Thomas, [CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages](https://github.com/Kyubyong/css10), arXiv:1903.11269*
 
 	   - [페이지 : awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)*
 
-	* [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264)                   
+	* Eugene Kharitonov et al(2021), [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264)                   
            - 페이지: https://speechbot.github.io/pgslm/                
            - 번역 : [텍스트 없는 자연어 처리](http://www.aitimes.kr/news/articleView.html?idxno=22445&fbclid=IwAR176Lmgx2MM-PDnGqF5KWUr9LLw9OI-m_RlkiFZWqo2wLSeo4yVzHvjB-M)    
            -  기본 주파수(F0) 정보를 언급한 부분이 흥미로운데 기본주파수는  운율 정보뿐만 아니라 화자 정보도 포함하고 있다는 점에 주목.      
