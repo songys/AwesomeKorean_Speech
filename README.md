@@ -19,17 +19,17 @@
 
 
 # 음성 인식 automatic speech recognition (ASR)
--관련 책       
+-책       
 
 	- [ratsgo's speech book](https://ratsgo.github.io/speechbook/docs/neuralam/deepspeech)
 
-- 관련 강의
+- 강의
 
 	- Connectionist Temporal Classification(CTC) 모델 관련 강의: [토크ON세미나 딥러닝 기반 음성인식 기초 4강](https://www.youtube.com/watch?v=xQ0kkGb5gLk)     
 	- wave2vec 논문 관련 강의 : [wav2vec: Self-Supervised Learning of Discrete Speech Representations[(https://www.youtube.com/watch?v=mPtyfqWHs3s).  
 
 
-- 관련 논문      
+- 논문      
 
 	*Wiliam Chan et al. [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211) arXiv: 1508.01211*      
 
@@ -37,24 +37,24 @@
 
 	*Jung-Woo Ha et al. [ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact (Centers](https://github.com/clovaai/ClovaCall), arXiv: 2004.09367*   
 
-	
-
 	*Soohwan Kim, Seyoung Bae, Cheolhwang Won, [Open-source toolkit for end-to-end Korean speech recognition](https://www.sciencedirect.com/science/article/pii/S2665963821000026),SIMPAC*
 
 	*Park, Kyubyong and Mulc, Thomas, [CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages](https://github.com/Kyubyong/css10), arXiv:1903.11269*
 
-	*[논문 정리한 깃헙 : awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)*
-	
-	
-	* Text-Free Prosody-Aware Generative Spoken Language Modeling                   
-           - 관련 페이지: https://speechbot.github.io/pgslm/                
-           - 번역 : [텍스트 없는 자연어 처리](http://www.aitimes.kr/news/articleView.html?idxno=22445&fbclid=IwAR176Lmgx2MM-PDnGqF5KWUr9LLw9OI-m_RlkiFZWqo2wLSeo4yVzHvjB-M)    
-           -  기본 주파수(F0) 정보를 언급한 부분이 흥미로운데 기본주파수는  운율 정보뿐만 아니라 화자 정보도 포함하고 있다는 점에 주목.            
+	   - [페이지 : awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)*
 
+	* [Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264)                   
+           - 페이지: https://speechbot.github.io/pgslm/                
+           - 번역 : [텍스트 없는 자연어 처리](http://www.aitimes.kr/news/articleView.html?idxno=22445&fbclid=IwAR176Lmgx2MM-PDnGqF5KWUr9LLw9OI-m_RlkiFZWqo2wLSeo4yVzHvjB-M)    
+           -  기본 주파수(F0) 정보를 언급한 부분이 흥미로운데 기본주파수는  운율 정보뿐만 아니라 화자 정보도 포함하고 있다는 점에 주목.      
+
+	
                
-- 관련 블로그      
+- 블로그      
 	*[딥 러닝 음성 인식에 필요한 훈련 데이터를 직접 만들어보자](https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python/)
 	* [Librosa python library로 음성파일 분석하기](https://banana-media-lab.tistory.com/entry/Librosa-python-library%EB%A1%9C-%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0)
+
+
 
 
 # 데이터    
